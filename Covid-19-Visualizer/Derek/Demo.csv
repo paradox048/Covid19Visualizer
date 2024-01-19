@@ -1,0 +1,255 @@
+date, Hospitalizations And Vaccination Numbers (At Least One Dose), ID
+2021-04-04, 5220000, Hospitalizations(Scaled up x10 000)
+2021-04-04, 6546050, Vaccinations
+2021-04-05, 5550000, Hospitalizations(Scaled up x10 000)
+2021-04-05, 6702538, Vaccinations
+2021-04-06, 5800000, Hospitalizations(Scaled up x10 000)
+2021-04-06, 6930376, Vaccinations
+2021-04-07, 5810000, Hospitalizations(Scaled up x10 000)
+2021-04-07, 7238136, Vaccinations
+2021-04-08, 5870000, Hospitalizations(Scaled up x10 000)
+2021-04-08, 7560852, Vaccinations
+2021-04-09, 6070000, Hospitalizations(Scaled up x10 000)
+2021-04-09, 7869587, Vaccinations
+2021-04-10, 6300000, Hospitalizations(Scaled up x10 000)
+2021-04-10, 8178372, Vaccinations
+2021-04-11, 6490000, Hospitalizations(Scaled up x10 000)
+2021-04-11, 8457505, Vaccinations
+2021-04-12, 6880000, Hospitalizations(Scaled up x10 000)
+2021-04-12, 8678176, Vaccinations
+2021-04-13, 7340000, Hospitalizations(Scaled up x10 000)
+2021-04-13, 8959177, Vaccinations
+2021-04-14, 7450000, Hospitalizations(Scaled up x10 000)
+2021-04-14, 9291798, Vaccinations
+2021-04-15, 7870000, Hospitalizations(Scaled up x10 000)
+2021-04-15, 9612609, Vaccinations
+2021-04-16, 8090000, Hospitalizations(Scaled up x10 000)
+2021-04-16, 9944351, Vaccinations
+2021-04-17, 8340000, Hospitalizations(Scaled up x10 000)
+2021-04-17, 10260301, Vaccinations
+2021-04-18, 8740000, Hospitalizations(Scaled up x10 000)
+2021-04-18, 10514761, Vaccinations
+2021-04-19, 9390000, Hospitalizations(Scaled up x10 000)
+2021-04-19, 10713628, Vaccinations
+2021-04-20, 9740000, Hospitalizations(Scaled up x10 000)
+2021-04-20, 10997216, Vaccinations
+2021-04-21, 9520000, Hospitalizations(Scaled up x10 000)
+2021-04-21, 11402039, Vaccinations
+2021-04-22, 9610000, Hospitalizations(Scaled up x10 000)
+2021-04-22, 11797993, Vaccinations
+2021-04-23, 9170000, Hospitalizations(Scaled up x10 000)
+2021-04-23, 12183566, Vaccinations
+2021-04-24, 8840000, Hospitalizations(Scaled up x10 000)
+2021-04-24, 12553343, Vaccinations
+2021-04-25, 8460000, Hospitalizations(Scaled up x10 000)
+2021-04-25, 12843627, Vaccinations
+2021-04-26, 8770000, Hospitalizations(Scaled up x10 000)
+2021-04-26, 13047350, Vaccinations
+2021-04-27, 8690000, Hospitalizations(Scaled up x10 000)
+2021-04-27, 13326618, Vaccinations
+2021-04-28, 8350000, Hospitalizations(Scaled up x10 000)
+2021-04-28, 13665340, Vaccinations
+2021-04-29, 7780000, Hospitalizations(Scaled up x10 000)
+2021-04-29, 14014238, Vaccinations
+2021-04-30, 7350000, Hospitalizations(Scaled up x10 000)
+2021-04-30, 14337407, Vaccinations
+2021-05-01, 7190000, Hospitalizations(Scaled up x10 000)
+2021-05-01, 14651803, Vaccinations
+2021-05-02, 7150000, Hospitalizations(Scaled up x10 000)
+2021-05-02, 14874259, Vaccinations
+2021-05-03, 7520000, Hospitalizations(Scaled up x10 000)
+2021-05-03, 15035220, Vaccinations
+2021-05-04, 7360000, Hospitalizations(Scaled up x10 000)
+2021-05-04, 15293133, Vaccinations
+2021-05-05, 7050000, Hospitalizations(Scaled up x10 000)
+2021-05-05, 15683945, Vaccinations
+2021-05-06, 6610000, Hospitalizations(Scaled up x10 000)
+2021-05-06, 16084808, Vaccinations
+2021-05-07, 6320000, Hospitalizations(Scaled up x10 000)
+2021-05-07, 16510561, Vaccinations
+2021-05-08, 5920000, Hospitalizations(Scaled up x10 000)
+2021-05-08, 16914548, Vaccinations
+2021-05-09, 5660000, Hospitalizations(Scaled up x10 000)
+2021-05-09, 17270458, Vaccinations
+2021-05-10, 5520000, Hospitalizations(Scaled up x10 000)
+2021-05-10, 17553227, Vaccinations
+2021-05-11, 5860000, Hospitalizations(Scaled up x10 000)
+2021-05-11, 17871606, Vaccinations
+2021-05-12, 5240000, Hospitalizations(Scaled up x10 000)
+2021-05-12, 18274649, Vaccinations
+2021-05-13, 5300000, Hospitalizations(Scaled up x10 000)
+2021-05-13, 18670306, Vaccinations
+2021-05-14, 5280000, Hospitalizations(Scaled up x10 000)
+2021-05-14, 19075666, Vaccinations
+2021-05-15, 5120000, Hospitalizations(Scaled up x10 000)
+2021-05-15, 19516250, Vaccinations
+2021-05-16, 5180000, Hospitalizations(Scaled up x10 000)
+2021-05-16, 19913294, Vaccinations
+2021-05-17, 5300000, Hospitalizations(Scaled up x10 000)
+2021-05-17, 20238752, Vaccinations
+2021-05-18, 5240000, Hospitalizations(Scaled up x10 000)
+2021-05-18, 20528862, Vaccinations
+2021-05-19, 5060000, Hospitalizations(Scaled up x10 000)
+2021-05-19, 20913728, Vaccinations
+2021-05-20, 4770000, Hospitalizations(Scaled up x10 000)
+2021-05-20, 21275716, Vaccinations
+2021-05-21, 4690000, Hospitalizations(Scaled up x10 000)
+2021-05-21, 21671475, Vaccinations
+2021-05-22, 4420000, Hospitalizations(Scaled up x10 000)
+2021-05-22, 22156323, Vaccinations
+2021-05-23, 4110000, Hospitalizations(Scaled up x10 000)
+2021-05-23, 22530849, Vaccinations
+2021-05-24, 4100000, Hospitalizations(Scaled up x10 000)
+2021-05-24, 22795199, Vaccinations
+2021-05-25, 4230000, Hospitalizations(Scaled up x10 000)
+2021-05-25, 23022323, Vaccinations
+2021-05-26, 4060000, Hospitalizations(Scaled up x10 000)
+2021-05-26, 23335773, Vaccinations
+2021-05-27, 3970000, Hospitalizations(Scaled up x10 000)
+2021-05-27, 23671517, Vaccinations
+2021-05-28, 3790000, Hospitalizations(Scaled up x10 000)
+2021-05-28, 24042349, Vaccinations
+2021-05-29, 3270000, Hospitalizations(Scaled up x10 000)
+2021-05-29, 24371456, Vaccinations
+2021-05-30, 3150000, Hospitalizations(Scaled up x10 000)
+2021-05-30, 24697588, Vaccinations
+2021-05-31, 3040000, Hospitalizations(Scaled up x10 000)
+2021-05-31, 24914546, Vaccinations
+2021-06-01, 2920000, Hospitalizations(Scaled up x10 000)
+2021-06-01, 25163616, Vaccinations
+2021-06-02, 2780000, Hospitalizations(Scaled up x10 000)
+2021-06-02, 25443051, Vaccinations
+2021-06-03, 2700000, Hospitalizations(Scaled up x10 000)
+2021-06-03, 25715659, Vaccinations
+2021-06-04, 2450000, Hospitalizations(Scaled up x10 000)
+2021-06-04, 26016721, Vaccinations
+2021-06-05, 2250000, Hospitalizations(Scaled up x10 000)
+2021-06-05, 26314144, Vaccinations
+2021-06-06, 2130000, Hospitalizations(Scaled up x10 000)
+2021-06-06, 26566066, Vaccinations
+2021-06-07, 2110000, Hospitalizations(Scaled up x10 000)
+2021-06-07, 26735766, Vaccinations
+2021-06-08, 2200000, Hospitalizations(Scaled up x10 000)
+2021-06-08, 26931341, Vaccinations
+2021-06-09, 1990000, Hospitalizations(Scaled up x10 000)
+2021-06-09, 27121194, Vaccinations
+2021-06-10, 1880000, Hospitalizations(Scaled up x10 000)
+2021-06-10, 27300621, Vaccinations
+2021-06-11, 1770000, Hospitalizations(Scaled up x10 000)
+2021-06-11, 27482796, Vaccinations
+2021-06-12, 1640000, Hospitalizations(Scaled up x10 000)
+2021-06-12, 27653184, Vaccinations
+2021-06-13, 1470000, Hospitalizations(Scaled up x10 000)
+2021-06-13, 27811885, Vaccinations
+2021-06-14, 1520000, Hospitalizations(Scaled up x10 000)
+2021-06-14, 27916819, Vaccinations
+2021-06-15, 1110000, Hospitalizations(Scaled up x10 000)
+2021-06-15, 28030516, Vaccinations
+2021-06-16, 1040000, Hospitalizations(Scaled up x10 000)
+2021-06-16, 28144150, Vaccinations
+2021-06-17, 1000000, Hospitalizations(Scaled up x10 000)
+2021-06-17, 28248283, Vaccinations
+2021-06-18, 850000, Hospitalizations(Scaled up x10 000)
+2021-06-18, 28342013, Vaccinations
+2021-06-19, 680000, Hospitalizations(Scaled up x10 000)
+2021-06-19, 28439146, Vaccinations
+2021-06-20, 630000, Hospitalizations(Scaled up x10 000)
+2021-06-20, 28534895, Vaccinations
+2021-06-21, 630000, Hospitalizations(Scaled up x10 000)
+2021-06-21, 28590252, Vaccinations
+2021-06-22, 710000, Hospitalizations(Scaled up x10 000)
+2021-06-22, 28664991, Vaccinations
+2021-06-23, 590000, Hospitalizations(Scaled up x10 000)
+2021-06-23, 28745245, Vaccinations
+2021-06-24, 570000, Hospitalizations(Scaled up x10 000)
+2021-06-24, 28818925, Vaccinations
+2021-06-25, 510000, Hospitalizations(Scaled up x10 000)
+2021-06-25, 28896246, Vaccinations
+2021-06-26, 460000, Hospitalizations(Scaled up x10 000)
+2021-06-26, 28978510, Vaccinations
+2021-06-27, 440000, Hospitalizations(Scaled up x10 000)
+2021-06-27, 29053387, Vaccinations
+2021-06-28, 490000, Hospitalizations(Scaled up x10 000)
+2021-06-28, 29107090, Vaccinations
+2021-06-29, 430000, Hospitalizations(Scaled up x10 000)
+2021-06-29, 29182161, Vaccinations
+2021-06-30, 420000, Hospitalizations(Scaled up x10 000)
+2021-06-30, 29249345, Vaccinations
+2021-07-01, 350000, Hospitalizations(Scaled up x10 000)
+2021-07-01, 29319171, Vaccinations
+2021-07-02, 360000, Hospitalizations(Scaled up x10 000)
+2021-07-02, 29350068, Vaccinations
+2021-07-03, 320000, Hospitalizations(Scaled up x10 000)
+2021-07-03, 29404015, Vaccinations
+2021-07-04, 280000, Hospitalizations(Scaled up x10 000)
+2021-07-04, 29457752, Vaccinations
+2021-07-05, 280000, Hospitalizations(Scaled up x10 000)
+2021-07-05, 29491586, Vaccinations
+2021-07-06, 300000, Hospitalizations(Scaled up x10 000)
+2021-07-06, 29547511, Vaccinations
+2021-07-07, 300000, Hospitalizations(Scaled up x10 000)
+2021-07-07, 29600845, Vaccinations
+2021-07-08, 320000, Hospitalizations(Scaled up x10 000)
+2021-07-08, 29674174, Vaccinations
+2021-07-09, 360000, Hospitalizations(Scaled up x10 000)
+2021-07-09, 29736526, Vaccinations
+2021-07-10, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-10, 29796581, Vaccinations
+2021-07-11, 310000, Hospitalizations(Scaled up x10 000)
+2021-07-11, 29845523, Vaccinations
+2021-07-12, 340000, Hospitalizations(Scaled up x10 000)
+2021-07-12, 29877322, Vaccinations
+2021-07-13, 370000, Hospitalizations(Scaled up x10 000)
+2021-07-13, 29931824, Vaccinations
+2021-07-14, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-14, 29987753, Vaccinations
+2021-07-15, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-15, 30043976, Vaccinations
+2021-07-16, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-16, 30101919, Vaccinations
+2021-07-17, 260000, Hospitalizations(Scaled up x10 000)
+2021-07-17, 30160089, Vaccinations
+2021-07-18, 220000, Hospitalizations(Scaled up x10 000)
+2021-07-18, 30204742, Vaccinations
+2021-07-19, 270000, Hospitalizations(Scaled up x10 000)
+2021-07-19, 30233473, Vaccinations
+2021-07-20, 290000, Hospitalizations(Scaled up x10 000)
+2021-07-20, 30282846, Vaccinations
+2021-07-21, 300000, Hospitalizations(Scaled up x10 000)
+2021-07-21, 30332245, Vaccinations
+2021-07-22, 250000, Hospitalizations(Scaled up x10 000)
+2021-07-22, 30383040, Vaccinations
+2021-07-23, 370000, Hospitalizations(Scaled up x10 000)
+2021-07-23, 30432680, Vaccinations
+2021-07-24, 350000, Hospitalizations(Scaled up x10 000)
+2021-07-24, 30485283, Vaccinations
+2021-07-25, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-25, 30526929, Vaccinations
+2021-07-26, 350000, Hospitalizations(Scaled up x10 000)
+2021-07-26, 30554172, Vaccinations
+2021-07-27, 370000, Hospitalizations(Scaled up x10 000)
+2021-07-27, 30598867, Vaccinations
+2021-07-28, 330000, Hospitalizations(Scaled up x10 000)
+2021-07-28, 30646064, Vaccinations
+2021-07-29, 300000, Hospitalizations(Scaled up x10 000)
+2021-07-29, 30693013, Vaccinations
+2021-07-30, 310000, Hospitalizations(Scaled up x10 000)
+2021-07-30, 30738336, Vaccinations
+2021-07-31, 280000, Hospitalizations(Scaled up x10 000)
+2021-07-31, 30781040, Vaccinations
+2021-08-01, 300000, Hospitalizations(Scaled up x10 000)
+2021-08-01, 30811313, Vaccinations
+2021-08-02, 270000, Hospitalizations(Scaled up x10 000)
+2021-08-02, 30830457, Vaccinations
+2021-08-03, 300000, Hospitalizations(Scaled up x10 000)
+2021-08-03, 30844801, Vaccinations
+2021-08-04, 270000, Hospitalizations(Scaled up x10 000)
+2021-08-04, 30878472, Vaccinations
+2021-08-05, 380000, Hospitalizations(Scaled up x10 000)
+2021-08-05, 30912142, Vaccinations
+2021-08-06, 430000, Hospitalizations(Scaled up x10 000)
+2021-08-06, 30945134, Vaccinations
+2021-08-07, 560000, Hospitalizations(Scaled up x10 000)
+2021-08-07, 30979277, Vaccinations
+2021-08-08, 310000, Hospitalizations(Scaled up x10 000)
+2021-08-08, 31003700, Vaccinations

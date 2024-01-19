@@ -1,0 +1,4 @@
+python death.py -resolved 12-02-2020 28-02-2021 Alberta > graph.csv
+
+
+python graph.py graph.csv graph.pdf

@@ -1,0 +1,8 @@
+Output:
+python Hospitalization_Vaccination_Extract.py 2021 4 4 2021 8 8 hospital.csv vaccines_by_age.csv 
+
+CSV File Creation:
+python Hospitalization_Vaccination_Extract.py 2021 4 4 2021 8 8 hospital.csv vaccines_by_age.csv > Demo.csv
+
+Graph:
+python Hospitalization_Vaccination_Create_Graph.py Demo.csv Demo.pdf
